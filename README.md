@@ -23,6 +23,5 @@ O MyFleet é um aplicativo para gerenciamento de frota de veículos. Ele permite
 ## Contribuição
 Contribuições são bem-vindas! Se você tiver sugestões, correções de bugs ou melhorias para o projeto, fique à vontade para enviar um pull request. Certifique-se de seguir as diretrizes de contribuição do projeto.
 
-## Licença
-Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).
+
 
