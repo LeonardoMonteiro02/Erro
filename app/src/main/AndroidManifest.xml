@@ -2,6 +2,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
 
+    <!-- Permissões do aplicativo -->
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <application
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
@@ -28,6 +31,13 @@
         <activity
             android:name=".CreateAccountActivity"
             android:exported="true" />
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="749769200950-jmsftkfbk9m08k5rnst4og3lunupidp3.apps.googleusercontent.com" />
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="1297691631177277" />
 
     </application>
 
